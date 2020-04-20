@@ -13,7 +13,7 @@ inputs:
     default: '127.0.0.1'
   mysql_port:
     description: 'MYSQL_PORT'
-    required: true
+    default: '3306'
   mysql_user:
     description: 'MYSQL_USER'
     required: true
