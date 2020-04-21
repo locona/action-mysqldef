@@ -1,3 +1,10 @@
+### [1.0.3](https://github.com/locona/action-mysqldef/compare/v1.0.2...v1.0.3) (2020-04-21)
+
+
+### Bug Fixes
+
+* bugfix entrypoint.sh ([f85ab54](https://github.com/locona/action-mysqldef/commit/f85ab542c275a833486752b8d3ac0610f4ccd253))
+
 ### [1.0.2](https://github.com/locona/action-mysqldef/compare/v1.0.1...v1.0.2) (2020-04-21)
 
 
