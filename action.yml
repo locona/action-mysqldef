@@ -25,7 +25,7 @@ inputs:
     required: true
   schema_path:
     description: 'SCHEMA_PATH'
-    required: true
+    default: schema.sql
 runs:
   using: 'docker'
   image: 'Dockerfile'
