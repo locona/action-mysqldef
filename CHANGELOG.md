@@ -1,3 +1,10 @@
+### [1.0.1](https://github.com/locona/action-mysqldef/compare/v1.0.0...v1.0.1) (2020-04-21)
+
+
+### Improvement
+
+* Update params and README ([041b22d](https://github.com/locona/action-mysqldef/commit/041b22d0e4f5efd64dea24d72ecddd022af97b9b))
+
 ## 1.0.0 (2020-04-21)
 
 
