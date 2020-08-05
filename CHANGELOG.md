@@ -1,3 +1,10 @@
+## [1.1.0](https://github.com/locona/action-mysqldef/compare/v1.0.3...v1.1.0) (2020-08-05)
+
+
+### New Features
+
+* Upgrade mysqldef ([#7](https://github.com/locona/action-mysqldef/issues/7)) ([134861c](https://github.com/locona/action-mysqldef/commit/134861c2d3819ec8f5997aceda18d03f5d5eca4c))
+
 ### [1.0.3](https://github.com/locona/action-mysqldef/compare/v1.0.2...v1.0.3) (2020-04-21)
 
 
