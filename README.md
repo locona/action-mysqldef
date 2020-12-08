@@ -40,7 +40,7 @@ Required. schema path of mysqldef. (default: schema.sql)
 
 ## Example usage
 
-### [.github/workflows/reviewdog.yml](.github/workflows/reviewdog.yml)
+### [.github/workflows/mysqldef](.github/workflows/mysqldef.yml)
 
 ```yml
 name: mysqldef
